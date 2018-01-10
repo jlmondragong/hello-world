@@ -1,6 +1,6 @@
 # hello-world
-Un repositorio más
+Mi primer repositorio
 
 Esta es una prueba de modificaciones para probar el mecanismo de commit
 
-JL
+JLMoG
